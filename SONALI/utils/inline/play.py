@@ -76,7 +76,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="❥︎𝐁𝐨𝐥𝐭᭄'𝐒𝐚𝐧𝐚𝐭𝐚𝐧𝐢🔥", url="https://t.me/ELITE_KIRITO",
+                text="ＳＬΛＹΞＲ🔥", url="https://t.me/ELITE_KIRITO",
             ),
             InlineKeyboardButton(
                 text="𝑺𝑨𝑶 𝑾𝑶𝑹𝑳𝑫❤️", url="https://t.me/darkyxsupport",
