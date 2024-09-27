@@ -76,10 +76,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="❥︎𝐁𝐨𝐥𝐭᭄'𝐒𝐚𝐧𝐚𝐭𝐚𝐧𝐢🔥", url="https://t.me/Wtz_Bolt_God",
+                text="❥︎𝐁𝐨𝐥𝐭᭄'𝐒𝐚𝐧𝐚𝐭𝐚𝐧𝐢🔥", url="https://t.me/ELITE_KIRITO",
             ),
             InlineKeyboardButton(
-                text="❥︎𝐕𝐢𝐩᭄'𝐅𝐚𝐦𝐢𝐥𝐲🥀", url="https://t.me/+I0Zp6Yql7M83Yjg1",
+                text="𝑺𝑨𝑶 𝑾𝑶𝑹𝑳𝑫❤️", url="https://t.me/darkyxsupport",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -99,10 +99,10 @@ def stream_markup(_, videoid, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="𝖮𝗐𝗇𝖾𝗋🥀", url="https://t.me/WORLD_ALPHA",
+                text="Updates🥀", url="https://t.me/botzz_x_hub",
             ),
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍🥀", url="https://t.me/+Q25anL0Ckuk5NzM1",
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍🥀", url="https://t.me/darkyxsupport",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
